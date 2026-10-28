@@ -1,0 +1,2 @@
+html, body, #root { height: 100%; margin: 0; background: #080808; }
+.shader-frame { position: fixed; inset: 0; width: 100%; height: 100dvh; }
